@@ -1,2 +1,2 @@
 # MyFirstRepo
-for IS
+for isjuku 
